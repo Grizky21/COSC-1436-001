@@ -1,0 +1,6 @@
+﻿  Score Average Calculation.cpp
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Score Average Calculation\Score Average Calculation.cpp(15,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Score Average Calculation\Score Average Calculation.cpp(16,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Score Average Calculation\Score Average Calculation.cpp(17,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Score Average Calculation\Score Average Calculation.cpp(26,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Score Average Calculation.vcxproj -> C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\x64\Debug\Score Average Calculation.exe
