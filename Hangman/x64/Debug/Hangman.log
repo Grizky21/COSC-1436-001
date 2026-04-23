@@ -1,0 +1,10 @@
+﻿  Hangman.cpp
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Hangman\WordGuessing.h(33,68): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Hangman\WordGuessing.h(33,68): warning C4267:         with
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Hangman\WordGuessing.h(33,68): warning C4267:         [
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Hangman\WordGuessing.h(33,68): warning C4267:             _Ty=int
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Hangman\WordGuessing.h(33,68): warning C4267:         ]
+  (compiling source file 'Hangman.cpp')
+  
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Hangman\Hangman.cpp(73,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Hangman.vcxproj -> C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\x64\Debug\Hangman.exe
