@@ -1,0 +1,3 @@
+﻿  Data Analysis.cpp
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Data Analysis\Data Analysis.cpp(158,21): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Data Analysis.vcxproj -> C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\x64\Debug\Data Analysis.exe
