@@ -1,0 +1,5 @@
+﻿  To Do List With Map.cpp
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\To Do List With Map\ToDoList.h(18,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'To%20Do%20List%20With%20Map.cpp')
+  
+  To Do List With Map.vcxproj -> C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\x64\Debug\To Do List With Map.exe
