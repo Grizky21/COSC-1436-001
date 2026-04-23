@@ -1,0 +1,4 @@
+﻿  Whirlwind Review.cpp
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Whirlwind Review\ageFunction.h(11,8): error C2082: redefinition of formal parameter 'age'
+  (compiling source file 'Whirlwind%20Review.cpp')
+  
