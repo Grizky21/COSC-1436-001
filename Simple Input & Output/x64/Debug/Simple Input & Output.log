@@ -1,0 +1,4 @@
+﻿  Simple Input & Output.cpp
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Simple Input & Output\Simple Input & Output.cpp(14,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Simple Input & Output\Simple Input & Output.cpp(15,38): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Simple Input & Output.vcxproj -> C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\x64\Debug\Simple Input & Output.exe
