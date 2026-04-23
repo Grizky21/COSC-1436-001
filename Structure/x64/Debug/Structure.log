@@ -1,0 +1,3 @@
+﻿  Structure.cpp
+C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\Structure\Structure.cpp(7,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Structure.vcxproj -> C:\Users\Grizk\Downloads\Fundamental Programming 1\Calculator_Sol\x64\Debug\Structure.exe
